@@ -2,7 +2,7 @@
 
 ![chat](https://github.com/amisha26/Chat-App/blob/master/public/ch.jpg)
 
-Real-time chat application with websockets using Node.js, Express and Socket.io with Vanilla JS on the front-end with a custom UI
+Real-time chat application with websockets using NodeJS, ExpressJS and Socket.io with VanillaJS on the front-end with a custom UI
 
 ### Setup
 
